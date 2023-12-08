@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/itksweb/bg-generator)
-- Live Site URL: [Add live site URL here](https://itksweb.github.io/bg-generator/)
+- Solution URL: [here](https://github.com/itksweb/bg-generator)
+- Live Site URL: [here](https://itksweb.github.io/bg-generator/)
 
 ## My process
 
@@ -55,5 +55,5 @@ Hope to apply and improve on these principles in more advanced projects that hav
 
 ## Author
 
-- WhatsApp - [Kingsley Ikpefan](https://wa.me/2348060719978)
-- LinkedIn - [Kingsley Ikpefan](https://www.linkedin.com/in/kingsleyikpefan)
+- WhatsApp - [here](https://wa.me/2348060719978)
+- LinkedIn - [here](https://www.linkedin.com/in/kingsleyikpefan)
